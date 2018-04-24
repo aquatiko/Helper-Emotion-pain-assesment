@@ -19,8 +19,9 @@ The result will be sent to app. Then the doctor/user need to select symptoms var
 6. Body domain
 
 # Future Improvements: 
-VIDEO CAPTURING FEATURE FOR CONTINUOUS FACE ANALYSIS .
-VOICE CAPTURING FOR AUTOMATIC VOICE ASSESSMENT.
+Video capturing feature for continous facial analysis.
+
+Voice capturing for automatic voice assesment.
 
 # To integrate the android app and deep learning analysis outputs
 Used Flask to host my laptop as the server . I have a separate file for the Flask as server.py . Where all the the necessary stuff of client request and server response have been dealt with . I have used npm package ngrok for tunneling purpose and hosting.
