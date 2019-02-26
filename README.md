@@ -5,9 +5,7 @@ In the healthcare setting, performing an accurate assessment of patient’s pain
 
 Thus, there is a need to access the pain severity score of a person using non-verbal techniques and train the techiques to self-improvise upon themselves. We also need to study the dependency on environmental factors responsible for the prediction using machine learning, so as to push their sadness to happiness(improve their well-being).
 
-Part1(Server and model):https://drive.google.com/open?id=1PrK_X9d39NYMysHC2l4KFnO0Bnixj3pn
-
-Part2(App code):https://drive.google.com/open?id=15BaAv1Lm_sKMkuVLxwa5H9EsOTFDRVXB
+Related files: https://drive.google.com/drive/folders/1bY4ir-3K_xj5YO9mmGYK7z7FGGO9vLit
 
 # Implementation details
 The product being developed is a mobile application for android operating system. It is an emotion and pain assessment tool and can be incorporated on other platforms also, which satisfy the minimum requirements of system.
